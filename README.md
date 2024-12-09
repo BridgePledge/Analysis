@@ -5,3 +5,4 @@
 # -BuilderScore Analysis contains an excel file comparing the BuilderScore and the Bridge Scores as of October 2024
 # -CommonGround Scorecard Analysis contains the codebook evaluating the CommonGround Scorecard Data and testing a model without that data as well as our own Caucus Membership data
 # -Bridge-Grade-main folder shows coding on scraping
+# -Bridge_Pledge is coding on analysis of Bridge Pledge when weights/variables are changed
