@@ -6,3 +6,4 @@
 # -CommonGround Scorecard Analysis contains the codebook evaluating the CommonGround Scorecard Data and testing a model without that data as well as our own Caucus Membership data
 # -Bridge-Grade-main folder shows coding on scraping
 # -Bridge_Pledge is coding on analysis of Bridge Pledge when weights/variables are changed
+# -Read GitHub data by Python is coding on how to read data files in Github via Python. Shows how to read for files smaller than 1MB and larger than 1MB
